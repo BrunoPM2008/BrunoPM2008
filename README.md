@@ -7,9 +7,19 @@
 
 ---
 
-### 🧠 Linguagens & Ferramentas
+### 🧠 Linguagens
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,postgresql,java,python&theme=dark" />
+</p>
+
+<p align="center">
+- HTML/CSS: ⭐⭐⭐⭐ Avançado – Layouts responsivos e pequenas animações
+- JavaScript: ⭐⭐ Básico – Scripts e lógica básica
+- React: ⭐⭐ Básico – Componentes e consumo de APIs
+- Node.js: ⭐⭐ Básico – Servidores, rotas e CRUD
+- PHP: ⭐⭐⭐⭐ Intermediário – Web, CRUD, autenticação e envio de emails
+- MySQL/PostgreSQL: ⭐⭐⭐ Intermediário – Consultas e joins
+- Java/Python: ⭐⭐ Básico – OOP e scripts simples
 </p>
 
 ---
