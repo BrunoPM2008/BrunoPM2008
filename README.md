@@ -1,14 +1,15 @@
 <h1 align="center">👋 Olá! Me chamo Bruno Possamai</h1>
 
 <p align="center">
-  💻 Desenvolvedor Web em formação <br>
+  💻 Técnico em informática<br>
+  💻 Engenheiro de Software 1/8 <br>
 </p>
 
 ---
 
 ### 🧠 Linguagens & Ferramentas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,postgresql,java,python&theme=dark" />
 </p>
 
 ---
