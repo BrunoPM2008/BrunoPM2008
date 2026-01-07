@@ -13,12 +13,12 @@
 </p>
 
 <p align="center">
-- HTML/CSS: ⭐⭐⭐⭐ Avançado – Layouts responsivos e pequenas animações
-- JavaScript: ⭐⭐ Básico – Scripts e lógica básica
-- React: ⭐⭐ Básico – Componentes e consumo de APIs
-- Node.js: ⭐⭐ Básico – Servidores, rotas e CRUD
-- PHP: ⭐⭐⭐⭐ Intermediário – Web, CRUD, autenticação e envio de emails
-- MySQL/PostgreSQL: ⭐⭐⭐ Intermediário – Consultas e joins
+- HTML/CSS: ⭐⭐⭐⭐ Avançado – Layouts responsivos e pequenas animações<br>
+- JavaScript: ⭐⭐ Básico – Scripts e lógica básica<br>
+- React: ⭐⭐ Básico – Componentes e consumo de APIs<br>
+- Node.js: ⭐⭐ Básico – Servidores, rotas e CRUD<br>
+- PHP: ⭐⭐⭐⭐ Intermediário – Web, CRUD, autenticação e envio de emails<br>
+- MySQL/PostgreSQL: ⭐⭐⭐ Intermediário – Consultas e joins<br>
 - Java/Python: ⭐⭐ Básico – OOP e scripts simples
 </p>
 
