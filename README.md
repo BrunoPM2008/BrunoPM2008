@@ -8,19 +8,48 @@
 ---
 
 ### 🧠 Linguagens
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,postgresql,java,python&theme=dark" />
 </p>
 
-<p align="center">
-- HTML/CSS: ⭐⭐⭐⭐ Avançado – Layouts responsivos e pequenas animações<br>
-- JavaScript: ⭐⭐ Básico – Scripts e lógica básica<br>
-- React: ⭐⭐ Básico – Componentes e consumo de APIs<br>
-- Node.js: ⭐⭐ Básico – Servidores, rotas e CRUD<br>
-- PHP: ⭐⭐⭐⭐ Intermediário – Web, CRUD, autenticação e envio de emails<br>
-- MySQL/PostgreSQL: ⭐⭐⭐ Intermediário – Consultas e joins<br>
-- Java/Python: ⭐⭐ Básico – OOP e scripts simples
-</p>
+<table align="center">
+  <tr>
+    <td>HTML/CSS</td>
+    <td>⭐⭐⭐⭐ Avançado</td>
+    <td>Layouts responsivos e pequenas animações</td>
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td>⭐⭐ Básico</td>
+    <td>Scripts e lógica básica</td>
+  </tr>
+  <tr>
+    <td>React</td>
+    <td>⭐⭐ Básico</td>
+    <td>Componentes e consumo de APIs</td>
+  </tr>
+  <tr>
+    <td>Node.js</td>
+    <td>⭐⭐ Básico</td>
+    <td>Servidores, rotas e CRUD</td>
+  </tr>
+  <tr>
+    <td>PHP</td>
+    <td>⭐⭐⭐⭐ Intermediário</td>
+    <td>Web, CRUD, autenticação e envio de emails</td>
+  </tr>
+  <tr>
+    <td>MySQL/PostgreSQL</td>
+    <td>⭐⭐⭐ Intermediário</td>
+    <td>Consultas e joins</td>
+  </tr>
+  <tr>
+    <td>Java/Python</td>
+    <td>⭐⭐ Básico</td>
+    <td>OOP e scripts simples</td>
+  </tr>
+</table>
 
 ---
 
