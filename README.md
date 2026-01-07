@@ -13,20 +13,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=BrunoPM2008&show_icons=true&count_private=true&include_all_commits=true&theme=merko" 
-    height="160"
-  /><br/>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoPM2008&layout=compact&langs_count=8&theme=merko" 
-    height="160"
-  />
-</p>
-
----
-
 ### 📫 Onde me encontrar
 <p align="center">
   <a href="https://github.com/BrunoPM2008">
