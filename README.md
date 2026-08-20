@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Técnico em informática<br>
-  💻 Engenheiro de Software 1/8 <br>
+  💻 Engenheiro de Software 2/8 <br>
 </p>
 
 ---
